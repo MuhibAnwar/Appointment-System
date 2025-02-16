@@ -142,7 +142,7 @@ export default function AppointmentForm() {
                     type="submit" 
                     className="w-full mt-4 py-3 bg-[#00796B] text-white text-lg font-semibold rounded-lg hover:bg-gray-800 transition"
                 >
-                    Generate Resume
+                    Generate Appointment
                 </button>
             </form>
 
